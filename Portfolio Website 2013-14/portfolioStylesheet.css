@@ -1,0 +1,185 @@
+/*Stylesheet for Final WebDev Portfolio*/
+
+/*Main body Styling*/
+body {
+	font-size: 20px;
+	background-color: #393939;
+	color: #E2D6D6;
+}
+article{
+	padding-top: 5%;
+}
+#openingParagraph {
+	width: 850px;
+	margin: auto;
+	font-family: 'Buda', cursive;
+}
+#mainBody {
+	width: 950px;
+	margin: auto;
+	font-family: 'Buda', cursive;
+}
+#mainBody tr td.pageTitle {
+	color: #FF5A09;
+	font-family: 'Electrolize', sans-serif;
+	font-size: 100%;
+	padding-bottom: 50px;
+}
+#mainBody h5 {
+	color: #FF5A09;
+}
+#importantWord {
+	color: #FF5A09;
+}
+#externalLink {
+	text-decoration: none;
+	color: #FF5A09;
+}
+#externalLink:hover {
+	opacity: 0.8;
+	color: #E2D6D6;
+}
+#importantText {
+	color: #FF5A09;
+}
+/*Horizontal navigation styling*/
+#horizontalNAV {
+	padding-top: 0;
+	/*background-image: url(images/header.png);*/
+	padding-right: 0px;
+	width: 100%;
+	}	
+#horizontalNAV ul {
+	list-style-type: none;
+	margin: 0;
+	padding-left: 40%;
+	padding-top: 5%;
+	padding-bottom: 10px;
+}
+#horizontalNAV li {
+	display: inline;
+	padding-right: 5px;
+}
+#horizontalNAV a {
+	text-decoration: none;
+	color: white;
+	font-family: 'Electrolize', sans-serif;
+}
+#horizontalNAV a:hover {
+	opacity: 0.8;
+	color: #FF5A09;
+	width: 100%;
+}
+/*Icon Styling*/
+aside {
+	float: left;
+	width: 100px;
+	padding-top: 10%
+}
+#iconNAV {
+	position: fixed;
+	max-width: 1000px;
+	text-align: center;
+    margin: auto;
+}
+#iconNAV ul{
+	list-style-type: none;
+}
+#iconNAV li {
+	display: block;
+}
+#iconNAV a {
+	text-decoration: none;
+}
+#iconNAV li a img {
+	height: 40px;
+	width: 40px;
+	padding-top: 25px;
+	padding-left: 5%;
+	overflow: hidden;
+}
+#iconNAV li ul li.sub-menu {
+	display: none;
+	position: absolute;
+	font-size: 75%;
+	font-family: 'Electrolize', sans-serif;
+}
+/*Icon Hover Effects*/
+.icons:hover {
+	cursor: pointer;
+    height:70px;
+    width: 70px;
+    transform:scale(1.20);
+    -ms-transform:scale(1.20); /* IE 9 */
+    -moz-transform:scale(1.20); /* Firefox */
+    -webkit-transform:scale(1.20); /* Safari and Chrome */
+    -o-transform:scale(1.20); /* Opera */
+}
+#iconNAV li:hover ul li.sub-menu {
+	display: inline;
+	padding-bottom: 10px;
+	width: 40px;
+	color: #FF5A09;
+}
+#iconNAV li:hover ul li.sub-menu a{
+	text-decoration: none;
+	width: 200px;
+}
+/*Styling for photoslide Show*/
+#photoSlideShow {
+	margin: auto;
+}
+/*Styling for SKILLS AND REFLECTION ANCHOR LINKS*/
+#anchorLink {
+	display: block;
+	font-size: 75%;
+	padding: 10px;
+}
+#anchorLink a{
+	text-decoration: none;
+	color: #E2D6D6;;
+}
+#anchorLink a:hover {
+	opacity: 0.8;
+	color: #FF5A09;
+	
+}
+.course {
+	color: #FF5A09;
+	font-family: 'Electrolize', sans-serif;
+}
+/*Goals Anchor Link Styling*/
+#mainBody tr td ul li#goalsAnchor{
+	display: inline;
+	padding: 8px;
+	font-size: 75%;
+}
+#mainBody tr td ul li a{
+	text-decoration: none;
+	color: #E2D6D6;
+}
+#mainBody tr td ul li#goalsAnchor a:hover {
+	opacity: 0.8;
+	color: #FF5A09;
+}
+/*Resume Styling*/
+#resumeFormat {
+	margin: auto;
+	font-family: 'Buda', cursive;
+}
+/*Contact FORM STYLING*/
+#formCol{
+	padding-right: 10px;
+	font-size: 75%;
+}
+legend {
+	color: #FF5A09;
+}
+/*Footer Styling*/
+footer table {
+	margin: auto;
+}
+footer table td {
+	font-family: 'Electrolize', sans-serif;
+	font-size: 70%;
+}

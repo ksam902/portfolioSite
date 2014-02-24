@@ -1,0 +1,106 @@
+	<!doctype html>
+	<html>
+	<head>
+	<meta charset="UTF-8" />
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<title>Kyle Samson Portfolio</title>
+	<link href="portfolioStylesheet.css" rel="stylesheet" />
+	<!-- Google Fonts link-->
+		<link href='http://fonts.googleapis.com/css?family=Electrolize' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Buda:300' rel='stylesheet' type='text/css'>
+		
+	</head>
+	<body>
+	
+	<nav id="horizontalNAV">
+		<ul>
+			<li><a href="index.html">| HOME |</a></li>
+			<li><a href="skills_reflection.html">| COURSES/REFLECTION |</a></li>
+			<li><a href="goals.html">| GOALS |</a></li>
+			<li><a href="resume.html">| RESUME |</a></li>
+			<li><a href="contact.html">| CONTACT |</a></li>
+			<li><a href="#"><img src="images/facebook.png" rel="facebook icon" height="40px" width="40px"/></a></li>
+			<li><a href="#"><img src="images/twitter.png" rel="twitter icon" height="40px" width="40px"/></a></li>
+			<hr width="100%" align="right" NOSHADE color="white">
+		</ul>
+		
+	</nav>
+	
+	<aside>
+		<ul id="iconNAV">
+			<li><a href="index.html"><img src="images/homef.png"  class="icons"/></a>
+				<ul>
+					<li class="sub-menu">HOME</li>
+				</ul>
+			</li>			
+			<li><a href="skills_reflection.html"><img src="images/skillsf.png"  class="icons"/></a>
+				<ul>
+					<li class="sub-menu">SKILLS/REFLECTION</li>
+				</ul>
+			</li>
+			<li><a href="goals.html"><img src="images/goalsf.png"  class="icons"/></a>
+				<ul>
+					<li class="sub-menu">GOALS</li>
+				</ul>
+			</li>
+			<li><a href="resume.html"><img src="images/resumef.png"  class="icons"/></a>
+				<ul>
+					<li class="sub-menu">RESUME</li>
+				</ul>
+			</li>
+			<li><a href="contact.html"><img src="images/contactf.png"  class="icons" /></a>
+				<ul>
+					<li  class="sub-menu">CONTACT</li>
+				</ul>
+			</li>	
+		</ul>
+	</aside>
+	
+	<section>
+	
+	<article>
+		<table cellpadding="10px" id="mainBody">
+			<tr>
+				<td colspan="3" align="center" class="pageTitle">- A LITTLE BIT ABOUT MYSELF -</td>
+			</tr>
+			<tr>
+				<td>
+					Hello, my name is Kyle Samson - a twenty four year old web developer wannabe, sports fan, social seeker and all around easy going fella. I'm drawn to the web because of the creativity and endless potential it has to offer. It's crazy how much you can do some with code and imagination. 
+				</td>
+			</tr>
+			<tr>
+				<td>
+					I'm currently attending the <a href="http://www.nscc.ca" target="_new" id="externalLink">Nova Scotia Community College</a> as a student in the <a href="http://www.nscc.ca/learning_programs/programs/PlanDescr.aspx?prg=IFTG&pln=IT-NOCONC" target="_new" id="externalLink">Information Technology Program</a> (Application Development stream). This site will highlight my experiences at the NSCC and the skills I have gained from the numerous IT courses. Take a minute and look around!
+				</td>
+			</tr>
+			
+		</table>
+	</article>
+
+	
+	<article>
+	</article>
+	
+	<article>
+	</article>
+	
+	</section>
+	
+	
+	
+	<footer>
+		<table>
+			<tr>
+				<td>&copy; Copyright Kyle Samson. All Rights Reserved.</td>
+			</tr>
+		</table>
+	</footer>
+	
+	
+	
+	
+	
+	
+	</body>
+	</html>

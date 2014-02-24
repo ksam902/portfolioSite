@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AutoPlay>false</AutoPlay>
+            <DescSliding>true</DescSliding>
+            <GalleryName>Work Samples -2013-</GalleryName>
+            <GalleryOptionID>1</GalleryOptionID>
+            <HoverStart>true</HoverStart>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEngine>jquery</ImageEngine>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>4. Facebook</ImageTemplate>
+            <ImageTemplateName>Social</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <PublishFileName>F:/WEBDEV/Final Project Digital Portfolio/WebDev Final Project/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>F:/WEBDEV/Final Project Digital Portfolio/WebDev Final Project</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelPaths>false</RelPaths>
+            <ResizeSpeed>7</ResizeSpeed>
+            <RightClick>false</RightClick>
+            <SlideShow>true</SlideShow>
+            <SlideShowDelay>4</SlideShowDelay>
+            <ThumbColumns>4</ThumbColumns>
+            <ThumbFitImage>false</ThumbFitImage>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>180</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbTemplate>Overlay</ThumbTemplate>
+            <ThumbTemplateName>Overlay</ThumbTemplateName>
+            <ThumbWidth>240</ThumbWidth>
+            <TitleType>graphic</TitleType>
+        </Settings>
+        <Images>
+            <Image>
+                <url>F:/WEBDEV/Final Project Digital Portfolio/WebDev Final Project/images/webdev.png</url>
+                <title>A website created with HTML5 and CSS3 that I did for a hockey coach looking for something simple, yet effective and up-to-date. This was done with the skills I learned in Website Development 1000 onm Notepad++.</title>
+            </Image>
+            <Image>
+                <url>F:/WEBDEV/Final Project Digital Portfolio/WebDev Final Project/images/programming.png</url>
+                <title>An application I made in Programming 1100. It loads in a text file into a Quiz format where the user can update/delete/add to the Quiz. The user can then save the Quiz to a text file. This was done in Visual Studio.</title>
+            </Image>
+            <Image>
+                <url>F:/WEBDEV/Final Project Digital Portfolio/WebDev Final Project/images/database.png</url>
+                <title>I created a fullly functional Microsoft Access Database application in Database 1100. I used SQL syntax to provide the user with a summary report of every employee, what products they've sold, how many and the total amount of money sold. </title>
+            </Image>
+            <Image>
+                <url>F:/WEBDEV/Final Project Digital Portfolio/WebDev Final Project/images/networking.png</url>
+                <title>The is a screen shot of the most up-to-date and challenging Packet Tracer activity completed so far. It highlights the requirements for completion that includes router interface configuration (no GUI's), correct connections and password protection.</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
